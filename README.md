@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, JAVA, SQL, C**
 - 📫 How to reach me: **vitorakira1@gmail.com**
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=vitorakiray&show_icons=true" alt="vitor akira"/> 
 </p>
